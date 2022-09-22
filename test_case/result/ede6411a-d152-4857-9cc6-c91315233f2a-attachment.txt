@@ -1,0 +1,8 @@
+2022-07-21 09:35:56,131 [INFO] 列表页面 (home_page.py:16)
+2022-07-21 09:35:56,304 [INFO] 点击新增按钮 (request_list_page.py:20)
+2022-07-21 09:35:56,373 [INFO] 新增数据 (new_request_page.py:28)
+2022-07-21 09:35:56,574 [INFO] 一级分类 (new_request_page.py:31)
+2022-07-21 09:35:56,870 [INFO] 选择分类完成 (new_request_page.py:36)
+2022-07-21 09:36:00,009 [INFO] 新增订单名称是:selenium test4205 (new_request_page.py:39)
+2022-07-21 09:36:04,226 [INFO] 定位到数据了 (request_list_page.py:35)
+2022-07-21 09:36:04,232 [INFO] 标题是selenium test4205 (request_list_page.py:37)

@@ -1,0 +1,8 @@
+2022-07-21 13:42:23,739 [INFO] 进入列表页面 (home_page.py:19)
+2022-07-21 13:42:23,743 [INFO] 点击新增按钮 (request_list_page.py:20)
+2022-07-21 13:42:23,799 [INFO] 新增数据 (new_request_page.py:28)
+2022-07-21 13:42:23,966 [INFO] 一级分类 (new_request_page.py:31)
+2022-07-21 13:42:24,282 [INFO] 选择分类成功 (new_request_page.py:36)
+2022-07-21 13:42:24,413 [INFO] 新增订单名称是:selenium test1039 (new_request_page.py:39)
+2022-07-21 13:42:24,583 [INFO] 定位到冒泡数据了 (request_list_page.py:33)
+2022-07-21 13:42:24,586 [INFO] 冒泡消息：保存成功 (request_list_page.py:35)

@@ -1,0 +1,9 @@
+[32mINFO    [0m simple_example:login_page.py:26 登录
+[32mINFO    [0m simple_example:home_page.py:16 列表页面
+[32mINFO    [0m simple_example:request_list_page.py:20 点击新增按钮
+[32mINFO    [0m simple_example:new_request_page.py:28 新增数据
+[32mINFO    [0m simple_example:new_request_page.py:31 一级分类
+[32mINFO    [0m simple_example:new_request_page.py:36 选择分类完成
+[32mINFO    [0m simple_example:new_request_page.py:39 新增订单名称是:selenium test9004
+[32mINFO    [0m simple_example:request_list_page.py:35 定位到数据了
+[32mINFO    [0m simple_example:request_list_page.py:37 标题是selenium test9004
